@@ -1,0 +1,1 @@
+Run the files in "Generating and plotting data" folder with the files in "Original and isolated data sets" to give you plots and simulated dataset to see the accuracy of our modified SIR model with the real-world disease data
